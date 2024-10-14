@@ -36,9 +36,9 @@ python3 app.py
 
 ## Screenshots
 
-![App Screenshot](https://github.com/laboromniavincit1/DockEase/blob/main/Screenshots/1.png?raw=true)
+![App Screenshot](https://github.com/laboromniavincit1/Search/blob/main/Screenshots/Screenshot_20241015_005619.png?raw=true)
 
-![App Screenshot](https://github.com/laboromniavincit1/DockEase/blob/main/Screenshots/2.png?raw=true)
+![App Screenshot](https://github.com/laboromniavincit1/DockEase/blob/main/Screenshots/Screenshot_20241015_005648.png?raw=true)
 
 
 ## Features
