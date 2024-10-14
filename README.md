@@ -1,5 +1,5 @@
 
-# DOCKEASE
+# SearchEase
 
 SearchEase is a smart search engine that helps users find quick and clear answers. It takes your search query, improves it using RoBERTa, and then summarizes the results using BART, so you get a short, easy-to-read summary. SearchEase connects to Google's SerpAPI to get search results and makes them more useful by refining and summarizing the information.
 
